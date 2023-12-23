@@ -1,9 +1,9 @@
-const Member = () => {
+const ClientMember = () => {
   return (
     <div>
-      <h1>Member Client Session</h1>
+      <h1>Client Member Client Session</h1>
     </div>
   );
 };
 
-export default Member;
+export default ClientMember;
